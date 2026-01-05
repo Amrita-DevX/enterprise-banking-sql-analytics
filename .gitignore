@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Database
+*.db
+*.sqlite
+*.dump
+*.sql~
+
+# Logs
+*.log
